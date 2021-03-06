@@ -6,7 +6,11 @@ namespace SF3._2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string SomeName = "Prazz";
+
+            Console.WriteLine(SomeName);
+
+            Console.ReadKey();
         }
     }
 }
