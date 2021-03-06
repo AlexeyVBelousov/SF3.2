@@ -6,7 +6,7 @@ namespace SF3._2
     {
         static void Main(string[] args)
         {
-            string SomeName = "Prazz";
+            const string SomeName = "Prazz";
 
             Console.WriteLine(SomeName);
 
